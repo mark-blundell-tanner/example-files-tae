@@ -1,0 +1,431 @@
+<context>
+    <comment/>
+    <label>
+      <id>SIQENCE.pageTitle</id>
+      <comment/>
+      <translation>
+        <custom>SIMATIC WinCC Unified SIQENCE</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.pageSubTitle</id>
+      <comment/>
+      <translation>
+        <custom>Rezeptsteuerungsfunktionen für die Chargenverarbeitung, basierend auf dem ISA-88 Standard</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.releaseInformation</id>
+      <comment/>
+      <translation>
+        <custom>Release Informationen</custom>
+      </translation>
+    </label>
+        <label>
+      <id>SIQENCE.releaseInformation_URL</id>
+      <comment/>
+      <translation>
+        <custom>access?ft:clusterId=section-release-informationen&amp;Product=SIQENCE&amp;ft:locale=de-DE</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.releaseInformationDescription</id>
+      <comment/>
+      <translation>
+        <custom>Hinweise zum Release</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.getStarted</id>
+      <comment/>
+      <translation>
+        <custom>Los geht's</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.installSetup</id>
+      <comment/>
+      <translation>
+        <custom>Installieren und Einrichten</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.installSetupDescription</id>
+      <comment/>
+      <translation>
+        <custom>Informieren Sie sich über die Voraussetzungen, den Installationsvorgang und das Einrichten.</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.install</id>
+      <comment/>
+      <translation>
+        <custom>SIQENCE installieren</custom>
+      </translation>
+    </label>
+     <label>
+      <id>SIQENCE.install_URL</id>
+      <comment/>
+      <translation>
+        <custom>access?ft:clusterId=section-los-geht-s_siqence-installieren&amp;Product=SIQENCE&amp;ft:locale=de-DE</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.setup</id>
+      <comment/>
+      <translation>
+        <custom>SIQENCE einrichten</custom>
+      </translation>
+    </label>
+        <label>
+      <id>SIQENCE.setup_URL</id>
+      <comment/>
+      <translation>
+        <custom>access?ft:clusterId=section-los-geht-s_siqence-einrichten&amp;Product=SIQENCE&amp;ft:locale=de-DE</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.userManagement</id>
+      <comment/>
+      <translation>
+        <custom>Zentrale Benutzerverwaltung</custom>
+      </translation>
+    </label>
+    <label>
+      <id>SIQENCE.userManagement_URL</id>
+      <comment/>
+      <translation>
+        <custom>access?ft:clusterId=section-los-geht-s_zentrale-benutzerverwaltung&amp;Product=SIQENCE&amp;ft:locale=de-DE</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.userManagementDescription</id>
+      <comment/>
+      <translation>
+        <custom>Richten Sie Benutzerzugriffe ein.</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.protectionSecurity</id>
+      <comment/>
+      <translation>
+        <custom>Zugriffsschutz und Sicherheit</custom>
+      </translation>
+    </label>
+    <label>
+      <id>SIQENCE.protectionSecurity_URL</id>
+      <comment/>
+      <translation>
+        <custom>access?ft:clusterId=section-los-geht-s_zugriffsschutz-und-sicherheit&amp;Product=SIQENCE&amp;ft:locale=de-DE</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.protectionSecurityDescription</id>
+      <comment/>
+      <translation>
+        <custom>Verwalten Sie Zertifikate für eine sichere Verbindung.</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.workingWithSiq</id>
+      <comment/>
+      <translation>
+        <custom>Mit SIQENCE arbeiten</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.basics</id>
+      <comment/>
+      <translation>
+        <custom>Grundlagen</custom>
+      </translation>
+    </label>
+        <label>
+      <id>SIQENCE.basics_URL</id>
+      <comment/>
+      <translation>
+        <custom>access?ft:clusterId=section-mit-siqence-arbeiten_grundlagen&amp;Product=SIQENCE&amp;ft:locale=de-DE</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.basicsDescription</id>
+      <comment/>
+      <translation>
+        <custom>Allgemeine Informationen über SIQENCE.</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.engineering</id>
+      <comment/>
+      <translation>
+        <custom>Engineeren</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.engineeringDescription</id>
+      <comment/>
+      <translation>
+        <custom>Verwenden Sie Bausteine und Faceplates der SIQENCE Library und legen Sie Ihre Anlagenhierarchie und HMI-Bilder an.</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.useSiqLib</id>
+      <comment/>
+      <translation>
+        <custom>SIQENCE Library verwenden</custom>
+      </translation>
+    </label>
+        <label>
+      <id>SIQENCE.useSiqLib_URL</id>
+      <comment/>
+      <translation>
+        <custom>access?ft:clusterId=section-mit-siqence-arbeiten_engineeren_siqence-library&amp;Product=SIQENCE&amp;ft:locale=de-DE</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.configAlarms</id>
+      <comment/>
+      <translation>
+        <custom>HMI-Bilder konfigurieren</custom>
+      </translation>
+    </label>
+        <label>
+      <id>SIQENCE.configAlarms_URL</id>
+      <comment/>
+      <translation>
+        <custom>access?ft:clusterId=section-mit-siqence-arbeiten_engineeren_hmi-bilder-konfigurieren&amp;Product=SIQENCE&amp;ft:locale=de-DE</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.configReportTemplates</id>
+      <comment/>
+      <translation>
+        <custom>Berichtsvorlagen konfigurieren</custom>
+      </translation>
+    </label>
+        <label>
+      <id>SIQENCE.configReportTemplates_URL</id>
+      <comment/>
+      <translation>
+        <custom>access?ft:clusterId=section-mit-siqence-arbeiten_engineeren_berichtsvorlagen-konfigurieren&amp;Product=SIQENCE&amp;ft:locale=de-DE</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.planIntegrate</id>
+      <comment/>
+      <translation>
+        <custom>Planen und Integrieren</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.planIntegrateDescription</id>
+      <comment/>
+      <translation>
+        <custom>Planen und Integrieren Sie Rezepte, Prozeduren und Chargen.</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.createRecipes</id>
+      <comment/>
+      <translation>
+        <custom>Rezepte und Prozeduren erstellen</custom>
+      </translation>
+    </label>
+        <label>
+      <id>SIQENCE.createRecipes_URL</id>
+      <comment/>
+      <translation>
+        <custom>access?ft:clusterId=section-mit-siqence-arbeiten_planen-und-integrieren_rezepte-und-prozeduren-erstellen&amp;Product=SIQENCE&amp;ft:locale=de-DE</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.createBatches</id>
+      <comment/>
+      <translation>
+        <custom>Chargen erstellen</custom>
+      </translation>
+    </label>
+        <label>
+      <id>SIQENCE.createBatches_URL</id>
+      <comment/>
+      <translation>
+        <custom>access?ft:clusterId=section-mit-siqence-arbeiten_planen-und-integrieren_chargen-erstellen&amp;Product=SIQENCE&amp;ft:locale=de-DE</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.operateMonitor</id>
+      <comment/>
+      <translation>
+        <custom>Bedienen und Beobachten</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.operateMonitorDescription</id>
+      <comment/>
+      <translation>
+        <custom>Bedienen und Beobachten Sie Ihre HMI-Bilder und Ihre Chargen.</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.operateHmiScreens</id>
+      <comment/>
+      <translation>
+        <custom>HMI-Bilder bedienen und beobachten</custom>
+      </translation>
+    </label>
+        <label>
+      <id>SIQENCE.operateHmiScreens_URL</id>
+      <comment/>
+      <translation>
+        <custom>access?ft:clusterId=section-mit-siqence-arbeiten_bedienen-und-beobachten_hmi-bilder-bedienen-und-beobachten&amp;Product=SIQENCE&amp;ft:locale=de-DE</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.operateBatches</id>
+      <comment/>
+      <translation>
+        <custom>Chargen bedienen und beobachten</custom>
+      </translation>
+    </label>
+        <label>
+      <id>SIQENCE.operateBatches_URL</id>
+      <comment/>
+      <translation>
+        <custom>access?ft:clusterId=section-mit-siqence-arbeiten_bedienen-und-beobachten_chargen-bedienen-und-beobachten&amp;Product=SIQENCE&amp;ft:locale=de-DE</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.analyze</id>
+      <comment/>
+      <translation>
+        <custom>Analysieren</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.analyzeDescription</id>
+      <comment/>
+      <translation>
+        <custom>Identifizieren Sie Systemfehler und rufen Sie Chargenberichte ab.</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.traceServer</id>
+      <comment/>
+      <translation>
+        <custom>Alarme in Runtime analysieren</custom>
+      </translation>
+    </label>
+        <label>
+      <id>SIQENCE.traceServer_URL</id>
+      <comment/>
+      <translation>
+        <custom>access?ft:clusterId=section-mit-siqence-arbeiten_analysieren&amp;Product=SIQENCE&amp;ft:locale=de-DE</custom>
+      </translation>
+    </label>
+    <label>
+      <id>SIQENCE.batchReport</id>
+      <comment/>
+      <translation>
+        <custom>Chargenberichte in Runtime abrufen</custom>
+      </translation>
+    </label>
+        <label>
+      <id>SIQENCE.batchReport_URL</id>
+      <comment/>
+      <translation>
+        <custom>access?ft:clusterId=/analyze/batch-reports/retrieving-batch-reports/_chargenberichte-in-runtime-abrufen&amp;Product=SIQENCE&amp;ft:locale=de-DE</custom>
+      </translation>                
+    </label>
+    <label>
+      <id>SIQENCE.securityInfo</id>
+      <comment/>
+      <translation>
+        <custom>Security Informationen</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.security</id>
+      <comment/>
+      <translation>
+        <custom>Security</custom>
+      </translation>
+    </label>
+        <label>
+      <id>SIQENCE.security_URL</id>
+      <comment/>
+      <translation>
+        <custom>access?ft:clusterId=section-security-informationen&amp;Product=SIQENCE&amp;ft:locale=de-DE</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.moreInfo</id>
+      <comment/>
+      <translation>
+        <custom>Weitere Informationen</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.glossary</id>
+      <comment/>
+      <translation>
+        <custom>Glossar</custom>
+      </translation>
+    </label>
+        <label>
+      <id>SIQENCE.glossary_URL</id>
+      <comment/>
+      <translation>
+        <custom>access?ft:/glossary/_glossar&amp;Product=SIQENCE&amp;ft:locale=de-DE</custom>
+      </translation>
+    </label>
+    <label>
+      <id>SIQENCE.glossaryDescription</id>
+      <comment/>
+      <translation>
+        <custom>Abkürzungen und Erläuterungen zur SIQENCE-Dokumentation.</custom>
+      </translation>
+    </label>
+
+    <label>
+      <id>SIQENCE.learnMore</id>
+      <comment/>
+      <translation>
+        <custom>Erfahren Sie mehr</custom>
+      </translation>
+    </label>
+
+  </context>

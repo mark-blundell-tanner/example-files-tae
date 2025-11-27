@@ -1,0 +1,49 @@
+DE	EN	ES
+Rezeptsteuerungsfunktionen für die Chargenverarbeitung, basierend auf dem ISA-88 Standard	Recipe control functions for batch processing, based on the ISA-88 standard	Funciones de control de recetas para el procesamiento por lotes, basadas en la norma ISA-88
+		
+Release Informationen	Release information	Información sobre la versión
+Hinweise zum Release	Release notes	Notas sobre la versión
+		
+Los geht's	Let's go	Empecemos
+Installieren und Einrichten	Install and set up	Instalación y ajuste
+Informieren Sie sich über die Voraussetzungen, den Installationsvorgang und das Einrichten.	Find out about requirements, installation process, and set up.	Infórmese sobre los requisitos, el proceso de instalación y el ajuste.
+SIQENCE installieren	Installing SIQENCE	Instalar SIQENCE
+SIQENCE einrichten	Setting up SIQENCE	Ajustar SIQENCE
+		
+Zentrale Benutzerverwaltung	Central User Management	Administración central de usuarios
+Richten Sie Benutzerzugriffe ein.	Configure user accesses.	Configure accesos de los usuarios.
+		
+Zugriffsschutz und Sicherheit	Protection and Security	Protección de acceso y seguridad
+Verwalten Sie Zertifikate für eine sichere Verbindung.	Manage certificates for a secure connection.	Administre certificados para una conexión segura.
+		
+Mit SIQENCE arbeiten	Working with SIQENCE	Trabajar con SIQENCE
+Grundlagen	Basics	Principios básicos
+Allgemeine Informationen über SIQENCE.	General information about SIQENCE.	Información general sobre SIQENCE.
+		
+Engineeren	Engineering	Ingeniería
+Verwenden Sie Bausteine und Faceplates der SIQENCE Library und legen Sie Ihre Anlagenhierarchie und HMI-Bilder an.	Use program blocks and faceplates from SIQENCE Library and create your plant hierarchy and HMI screens.	Utilice bloques y faceplates de la librería SIQENCE y cree su jerarquía de sistemas e imágenes HMI.
+SIQENCE Library verwenden	Using the SIQENCE Library	Uso de la SIQENCE Library
+HMI-Bilder konfigurieren	Configuring HMI screens	Configurar una imagen HMI
+Berichtsvorlagen konfigurieren	Configuring report templates	Configurar plantillas de informe
+		
+Planen und Integrieren	Planning and integrating	Planificación e integración
+Planen und Integrieren Sie Rezepte, Prozeduren und Chargen.	Plan and integrate recipes, procedures and batches.	Planifique e integre recetas, procedimientos y lotes.
+Rezepte und Prozeduren erstellen	Creating recipes and procedures	Crear recetas y procedimientos
+Chargen erstellen	Creating batches	Crear lotes
+		
+Bedienen und Beobachten	Operating and monitoring	Manejo y visualización
+Bedienen und Beobachten Sie Ihre HMI-Bilder und Ihre Chargen.	Operate and monitor your HMI screens and batches.	Maneje y visualice sus imágenes HMI y sus lotes.
+HMI-Bilder bedienen und beobachten	Operating and monitoring HMI screens	Manejar y visualizar imágenes HMI
+Chargen bedienen und beobachten	Operating and monitoring batches	Manejar y visualizar lotes
+		
+Analysieren	Analyzing	Análisis
+Identifizieren Sie Systemfehler und rufen Sie Chargenberichte ab.	Identify system errors and retrieve batch reports.	Identifique errores de sistema y consulte informes de lotes.
+Alarme in Runtime analysieren	Analyzing alarms in Runtime	Análisis de alarmas en Runtime
+Chargenberichte in Runtime abrufen	Retrieving batch reports in Runtime	Llamar informes de lote en Runtime
+		
+Security Informationen	Security information	Información de seguridad
+Security	Security	Seguridad
+		
+Weitere Informationen	More information	Más información
+Glossar	Glossary	Glosario
+Abkürzungen und Erläuterungen zur SIQENCE-Dokumentation.	Abbreviations and explanations of terms used in the SIQENCE documentation.	Abreviaturas y explicaciones de la documentación de SIQENCE.
