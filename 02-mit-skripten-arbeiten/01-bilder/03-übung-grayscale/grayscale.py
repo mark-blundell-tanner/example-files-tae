@@ -1,0 +1,1 @@
+# Generieren Sie einen Python-Skript, das ein Bild in Graustufen umwandelt.
