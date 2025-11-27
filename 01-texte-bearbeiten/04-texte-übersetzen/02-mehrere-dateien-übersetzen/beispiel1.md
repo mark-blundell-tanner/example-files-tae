@@ -1,3 +1,5 @@
+<!-- Übersetzen Sie mehrere Dateien gleichzeitig in Deutsch -->
+
 # Advanced GraphQL access
 
 ## Additional GraphQL APIs

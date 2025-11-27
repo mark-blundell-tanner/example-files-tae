@@ -1,3 +1,5 @@
+<!-- Übersetzen Sie die Tabelle in Deutsch mithilfe der Datei glossar.md -->
+
 # Product lifecycle
 
 | | Early Access | Production | Deprecation | Retirement |

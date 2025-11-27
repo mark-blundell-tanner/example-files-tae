@@ -1,3 +1,5 @@
+<!-- Übersetzen Sie die Tabelle in Deutsch -->
+
 # Product lifecycle
 
 | | Early Access | Production | Deprecation | Retirement |

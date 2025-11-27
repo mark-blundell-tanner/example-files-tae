@@ -1,3 +1,5 @@
+<!-- Generieren Sie eine Erklärung für den Python-Code -->
+
 # Bilder aus einer PDF extrahieren
 
 ```python
