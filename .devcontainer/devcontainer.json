@@ -1,0 +1,14 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {},
+  "customizations": {
+    "vscode": {		
+      "extensions": [
+        "shd101wyy.markdown-preview-enhanced",
+        "yzhang.markdown-all-in-one",
+        "hediet.vscode-drawio",
+        "tomoki1207.pdf"
+      ]
+    }
+  }
+}
