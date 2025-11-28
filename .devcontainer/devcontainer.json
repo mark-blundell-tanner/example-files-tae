@@ -6,8 +6,7 @@
       "extensions": [
         "shd101wyy.markdown-preview-enhanced",
         "yzhang.markdown-all-in-one",
-        "hediet.vscode-drawio",
-        "ms-python.python"
+        "hediet.vscode-drawio"
       ]
     }
   }
