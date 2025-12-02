@@ -8,28 +8,12 @@ agent: agent
 
 Prüfe diese Datei anhand des beigefügten Leitfadens (leitfaden.md) und verbessere die Datei entsprechend.
 
-## Anwendungsbeispiel
+## Erwartetes Verhalten
 
-Verwenden Sie diesen Prompt zusammen mit:
-1. Der zu prüfenden Markdown-Datei
-2. Der Datei `leitfaden.md` als Referenz
+Folgende Schritte sollten durchgeführt werden:
 
-## Erwartetes Ergebnis
-
-Der Assistent wird:
-- Die Datei gegen alle Regeln im Leitfaden prüfen
-- Verstöße identifizieren (z.B. fehlende Kommas, mehrere h1-Überschriften, ungeschlossene Code-Blöcke)
-- Alle gefundenen Probleme korrigieren
-- Die Datei entsprechend den Leitfaden-Vorgaben verbessern
-
-## Typische Korrekturen
-
-- Kommas vor Relativsätzen hinzufügen
-- Doppelte h1-Überschriften entfernen
-- Code-Blöcke schließen
-- Sprachspezifikationen zu Code-Blöcken hinzufügen
-- Alt-Texte zu Bildern hinzufügen
-- Übermäßige Ausrufezeichen reduzieren
-- Platzhalter-Links entfernen oder korrigieren
-- Überschüssige Leerzeilen entfernen
-- Überschriftenebenen korrigieren (keine Ebenen überspringen)
+1. Prüfe die geöffnete Datei auf Einhaltung der Schreibvorgaben.
+2. Identifiziere etwaige Verstöße gegen die Vorgaben.
+3. Korrigiere alle identifizierten Probleme und verbessere die Datei entsprechend den Vorgaben.
+4. Verbessere die englische Rechtschreibung und Grammatik, wo nötig.
+5. Gib eine Übersicht der Korrekturen im Chat aus.
