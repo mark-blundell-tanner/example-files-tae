@@ -1,0 +1,71 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "PDF Bilder Extrahieren",
+  "steps": [
+    {
+      "file": "02-mit-skripten-arbeiten/02-pdf/01-bilder-extrahieren/extract-images-from-pdf.py",
+      "description": "## Import der benötigten Bibliotheken\n\nDas Skript verwendet PyMuPDF (importiert als `fitz`) zum Arbeiten mit PDF-Dateien und `os` für Dateisystemoperationen.",
+      "pattern": "import fitz.*"
+    },
+    {
+      "file": "02-mit-skripten-arbeiten/02-pdf/01-bilder-extrahieren/extract-images-from-pdf.py",
+      "description": "## Hauptfunktion: extract_images_from_pdf\n\nDiese Funktion nimmt zwei Parameter entgegen:\n- `pdf_path`: Der Pfad zur PDF-Datei\n- `output_folder`: Der Ordner, in dem die extrahierten Bilder gespeichert werden",
+      "pattern": "def extract_images_from_pdf.*"
+    },
+    {
+      "file": "02-mit-skripten-arbeiten/02-pdf/01-bilder-extrahieren/extract-images-from-pdf.py",
+      "description": "## Ausgabeordner erstellen\n\nMit `os.makedirs()` wird der Ausgabeordner erstellt, falls er noch nicht existiert. Der Parameter `exist_ok=True` verhindert Fehler, wenn der Ordner bereits vorhanden ist.",
+      "pattern": "os.makedirs.*exist_ok=True.*"
+    },
+    {
+      "file": "02-mit-skripten-arbeiten/02-pdf/01-bilder-extrahieren/extract-images-from-pdf.py",
+      "description": "## PDF öffnen\n\nDie PDF-Datei wird mit `fitz.open()` geöffnet und als `pdf_document` Objekt gespeichert.",
+      "pattern": "pdf_document = fitz.open.*"
+    },
+    {
+      "file": "02-mit-skripten-arbeiten/02-pdf/01-bilder-extrahieren/extract-images-from-pdf.py",
+      "description": "## Bilderzähler initialisieren\n\nEin Zähler wird auf 0 gesetzt, um die Anzahl der extrahierten Bilder zu verfolgen.",
+      "pattern": "image_count = 0"
+    },
+    {
+      "file": "02-mit-skripten-arbeiten/02-pdf/01-bilder-extrahieren/extract-images-from-pdf.py",
+      "description": "## Durch Seiten iterieren\n\nDas Skript durchläuft jede Seite der PDF-Datei mit einer for-Schleife.",
+      "pattern": "for page_num in range.*"
+    },
+    {
+      "file": "02-mit-skripten-arbeiten/02-pdf/01-bilder-extrahieren/extract-images-from-pdf.py",
+      "description": "## Bilder auf der Seite abrufen\n\n`page.get_images()` gibt eine Liste aller Bilder auf der aktuellen Seite zurück.",
+      "pattern": "image_list = page.get_images.*"
+    },
+    {
+      "file": "02-mit-skripten-arbeiten/02-pdf/01-bilder-extrahieren/extract-images-from-pdf.py",
+      "description": "## Bilddaten extrahieren\n\nFür jedes Bild wird die XREF-Nummer (eindeutige Referenz) verwendet, um ein Pixmap-Objekt zu erstellen, das die tatsächlichen Bilddaten enthält.",
+      "pattern": "xref = img\\[0\\].*pix = fitz.Pixmap.*"
+    },
+    {
+      "file": "02-mit-skripten-arbeiten/02-pdf/01-bilder-extrahieren/extract-images-from-pdf.py",
+      "description": "## Farbmodus prüfen\n\nDieser Check prüft, ob das Bild im RGB-Modus vorliegt. Wenn `pix.n - pix.alpha < 4`, ist es RGB und kann direkt gespeichert werden.",
+      "pattern": "if pix.n - pix.alpha < 4:"
+    },
+    {
+      "file": "02-mit-skripten-arbeiten/02-pdf/01-bilder-extrahieren/extract-images-from-pdf.py",
+      "description": "## Dateinamen generieren\n\nFür jedes extrahierte Bild wird ein eindeutiger Dateiname erstellt, der die Seitennummer und den Bildindex enthält (z.B. `image_page1_1.png`).",
+      "pattern": "img_filename = f\"image_page.*"
+    },
+    {
+      "file": "02-mit-skripten-arbeiten/02-pdf/01-bilder-extrahieren/extract-images-from-pdf.py",
+      "description": "## CMYK zu RGB konvertieren\n\nWenn das Bild im CMYK-Farbmodus vorliegt, wird es zuerst in RGB konvertiert, bevor es gespeichert wird. Dies ist notwendig für die PNG-Speicherung.",
+      "pattern": "pix1 = fitz.Pixmap\\(fitz.csRGB, pix\\)"
+    },
+    {
+      "file": "02-mit-skripten-arbeiten/02-pdf/01-bilder-extrahieren/extract-images-from-pdf.py",
+      "description": "## PDF schließen\n\nNachdem alle Bilder extrahiert wurden, wird die PDF-Datei geschlossen und die Gesamtzahl der extrahierten Bilder ausgegeben.",
+      "pattern": "pdf_document.close.*"
+    },
+    {
+      "file": "02-mit-skripten-arbeiten/02-pdf/01-bilder-extrahieren/extract-images-from-pdf.py",
+      "description": "## Verwendungsbeispiel\n\nDas Skript wird mit einer Beispiel-PDF-Datei aufgerufen. Die extrahierten Bilder werden im Ordner `extracted_images` gespeichert.\n\n**Hinweis:** Passen Sie den Dateinamen an Ihre eigene PDF-Datei an!",
+      "pattern": "extract_images_from_pdf.*"
+    }
+  ]
+}
