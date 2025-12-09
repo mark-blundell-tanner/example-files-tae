@@ -66,9 +66,6 @@
 
     ![Use AI features](.assets/images/copilot-use-ai-features.png)
 
-    > **HINWEIS:**  
-    > Wenn Sie Copilot bereits im Codespace aktiviert und verwendet haben, wird die Option „Finish Setup” nicht angezeigt und Copilot steht Ihnen bereits zur Verfügung.
-
 ## Ergebnis
 
 Der Codespace ist erstellt und Copilot ist eingerichtet. Sie haben alles für den praktischen Teil des Kurses vorbereitet.
