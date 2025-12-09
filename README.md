@@ -60,12 +60,13 @@
 
     Ein Codespace startet in einem neuen Tab. Dies kann einige Minuten dauern.
 
-2. Wenn der Codespace fertig gestartet ist, klicken Sie unten rechts auf das Copilot-Symbol und klicken Sie auf "Use AI Features".
+2. Wenn der Codespace fertig gestartet ist, klicken Sie unten rechts auf das Copilot-Symbol ("Finish Setup") und klicken Sie auf "Use AI Features".
 
     ![Use AI features](.assets/images/copilot-use-ai-features.png)
 
-    Der Codespace ist erstellt und Copilot ist eingerichtet.
+    > **HINWEIS:**  
+    > Wenn Sie Copilot bereits in der Vergangenheit aktiviert und verwendet haben, wird die Option „Finish Setup” nicht angezeigt und Copilot steht Ihnen bereits zur Verfügung.
 
 ## Ergebnis
 
-Sie haben alles für den praktischen Teil des Kurses vorbereitet.
+Der Codespace ist erstellt und Copilot ist eingerichtet. Sie haben alles für den praktischen Teil des Kurses vorbereitet.
