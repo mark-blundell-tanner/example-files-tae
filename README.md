@@ -50,13 +50,15 @@
 
     > **HINWEIS:**  
     > Falls Sie "Start using Copilot free" nicht sehen, und der Bereich etwa wie unten aussieht, ist Copilot schon aktiviert.  
-    > ![Already activated](.assets/copilot-already-activated.png)
+    > ![Already activated](.assets/images/copilot-already-activated.png)
 
 3. Gehen Sie zurück zum Repository mit den Beispiel-Dateien: <https://github.com/mark-blundell-tanner/example-files-tae>.
 
 ## Einen Codespace erstellen
 
 1. Klicken Sie auf "Code" > "Codespaces" > "Create codespace on main".
+
+    ![Codespace erstellen](.assets/images/codeworkspace-erstellen.png)
 
     Ein Codespace startet in einem neuen Tab. Dies kann einige Minuten dauern.
 
@@ -65,7 +67,7 @@
     ![Use AI features](.assets/images/copilot-use-ai-features.png)
 
     > **HINWEIS:**  
-    > Wenn Sie Copilot bereits in der Vergangenheit aktiviert und verwendet haben, wird die Option „Finish Setup” nicht angezeigt und Copilot steht Ihnen bereits zur Verfügung.
+    > Wenn Sie Copilot bereits im Codespace aktiviert und verwendet haben, wird die Option „Finish Setup” nicht angezeigt und Copilot steht Ihnen bereits zur Verfügung.
 
 ## Ergebnis
 
