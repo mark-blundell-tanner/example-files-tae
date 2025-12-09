@@ -1,4 +1,6 @@
-<!-- Prüfen Sie die Hinweise mithilfe des Leitfadens -->
+<!-- Aktualisieren den Leitfaden, sodass Sicherheitshinweise gleichmäßig geprüft und angepasst werden:
+- Gemäß ANSI Z535
+- SAFE-Prinzip wird durchgehend verwendet -->
 
 # Sicherheitshinweise - Mixer
 

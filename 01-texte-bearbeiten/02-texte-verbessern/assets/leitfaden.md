@@ -82,18 +82,6 @@
 - Zeilenlänge: Idealerweise max. 80-120 Zeichen (bei Fließtext)
 - Einrückung: Konsistent 2 oder 4 Leerzeichen (keine Tabs)
 
-## Sicherheitshinweise
-
-- Gemäß ANSI Z535
-- SAFE-Prinzip soll durchgehend verwendet werden
-
-    Format:
-
-    !!! {Hinweis-Art} "{Signal Word}"
-        **{Analysis}**  
-        {Further consequences}  
-        {Evasion}
-
 ## Beispiele vermeiden
 
 - Platzhalter-Links wie `#`, `TODO`, `xxx`
