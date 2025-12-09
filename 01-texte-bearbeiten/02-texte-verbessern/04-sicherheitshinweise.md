@@ -1,4 +1,4 @@
-<!-- Aktualisieren den Leitfaden, sodass Sicherheitshinweise gleichmäßig geprüft und angepasst werden:
+<!-- Aktualisieren Sie den Leitfaden, sodass Sicherheitshinweise gleichmäßig geprüft und angepasst werden:
 - Gemäß ANSI Z535
 - SAFE-Prinzip wird durchgehend verwendet -->
 
