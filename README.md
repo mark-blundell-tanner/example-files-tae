@@ -48,6 +48,10 @@
 
     Ein Chat-Fenster mit Copilot öffnet sich. Das Fenster wird für diesen Kurs nicht gebraucht.
 
+    > **HINWEIS:**  
+    > Falls Sie "Start using Copilot free" nicht sehen, und der Bereich etwa wie unten aussieht, ist Copilot schon aktiviert.  
+    > ![Already activated](.assets/copilot-already-activated.png)
+
 3. Gehen Sie zurück zum Repository mit den Beispiel-Dateien: <https://github.com/mark-blundell-tanner/example-files-tae>.
 
 ## Einen Codespace erstellen
