@@ -4,7 +4,7 @@
 
 ## Übersicht
 
-Die TurboRun X3000 ist die neueste Innovation im Bereich von Laufschuhen. Mit modernster Technologie und einem unschlagbaren Design bietet dieser Schuh alles was man braucht. Egal ob Sie Anfänger sind oder Profi, dieser Schuh ist für alle geeignet.
+Die Turborun X 3000 ist die neueste Innovation im Bereich von Laufschuhen. Mit modernster Technologie und einem unschlagbaren Design bietet dieser Schuh alles was man braucht. Egal ob Sie Anfänger sind oder Profi, dieser Schuh ist für alle geeignet.
 
 ## Technische Spezifikationen
 
@@ -20,7 +20,7 @@ Der Schuh wiegt nur 250g und ist damit sehr leicht. Die Sohle besteht aus einem 
 
 ## Dämpfungssystem
 
-Das CloudFoam Dämpfungssystem ist wirklich das beste was es gibt. Es absorbiert Stöße bis zu 40% besser als normale Schuhe und Sie werden den Unterschied sofort merken!!! Die Technologie wurde in unseren Laboren entwickelt und getestet und ist jetzt endlich verfügbar.
+Das Cloud Foam Dämpfungssystem ist wirklich das beste was es gibt. Es absorbiert Stöße bis zu 40% besser als normale Schuhe und Sie werden den Unterschied sofort merken!!! Die Technologie wurde in unseren Laboren entwickelt und getestet und ist jetzt endlich verfügbar.
 
 ## Atmungsaktivität
 
@@ -62,7 +62,7 @@ Wenn Sie diese einfachen Regeln befolgen wird der Schuh lange halten.
 
 ## Umweltfreundlichkeit
 
-Wir achten auf die Umwelt! 30% der Materialien sind recycelt und die Produktion erfolgt CO2-neutral. Außerdem verwenden wir keine schädlichen Chemikalien bei der Herstellung.
+Wir achten auf die Umwelt! 30% der Materialien sind recycelt und die Produktion erfolgt Co2-neutral. Außerdem verwenden wir keine schädlichen Chemikalien bei der Herstellung.
 
 ## Kundenmeinungen
 
