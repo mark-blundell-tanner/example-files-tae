@@ -1,5 +1,5 @@
 <!-- Aktualisieren Sie den Leitfaden, sodass Sicherheitshinweise gleichmäßig geprüft und angepasst werden:
-- Gemäß ANSI Z535
+- Gemäß DIN EN 82079
 - SAFE-Prinzip wird durchgehend verwendet -->
 
 # Sicherheitshinweise - Mixer
