@@ -1,4 +1,4 @@
-<!-- Generieren Sie ein SVG-Diagramm mit draw.io mit einer Übersicht der Abhängigkeiten zwischen den Apps -->
+<!-- Generieren Sie ein draw.io-Diagramm mit einer Übersicht der Abhängigkeiten zwischen den Apps -->
 
 # Abhängigkeiten zwischen Apps
 

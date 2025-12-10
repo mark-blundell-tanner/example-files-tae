@@ -1,4 +1,4 @@
-<!-- Generieren Sie ein SVG mit draw.io mit einem Flussdiagram für die Installationsschritte -->
+<!-- Generieren Sie ein draw.io-Diagramm mit einem Flussdiagram für die Installationsschritte -->
 
 # Installationsanleitung für TechMaster Pro 2024
 
