@@ -2,11 +2,11 @@
 
 ## Beispiele mit Avatars
 
-<iframe style="width:100%; aspect-ratio: 16/9;" src="https://players.brightcove.net/1813624294001/f83fb7f6-75c0-411c-872c-ab6095a19211_default/index.html?videoId=6189530731001" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%; aspect-ratio: 16/9;" src="https://players.brightcove.net/1813624294001/f83fb7f6-75c0-411c-872c-ab6095a19211_default/index.html?videoId=6385608890112" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-<iframe style="width:100%; aspect-ratio: 16/9;" src="https://players.brightcove.net/1813624294001/f83fb7f6-75c0-411c-872c-ab6095a19211_default/index.html?videoId=6130392312001" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%; aspect-ratio: 16/9;" src="https://players.brightcove.net/1813624294001/f83fb7f6-75c0-411c-872c-ab6095a19211_default/index.html?videoId=6385314092112" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
 
 ## Interaktives Beispiel
 
