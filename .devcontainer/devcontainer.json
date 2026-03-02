@@ -1,8 +1,9 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "postCreateCommand": "pip install -r requirements.txt",
   "features": {},
   "customizations": {
-    "vscode": {		
+    "vscode": {
       "extensions": [
         "shd101wyy.markdown-preview-enhanced",
         "yzhang.markdown-all-in-one",
