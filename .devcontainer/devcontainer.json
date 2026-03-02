@@ -1,6 +1,6 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "postCreateCommand": "pip install -r requirements.txt",
+  "postCreateCommand": "apt-get clean && pip install -r requirements.txt",
   "features": {},
   "customizations": {
     "vscode": {
@@ -8,7 +8,8 @@
         "shd101wyy.markdown-preview-enhanced",
         "yzhang.markdown-all-in-one",
         "hediet.vscode-drawio",
-        "vsls-contrib.codetour"
+        "vsls-contrib.codetour",
+        "ms-python.python"
       ]
     }
   }
