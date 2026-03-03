@@ -1,6 +1,8 @@
 import fitz  # PyMuPDF
 import os
 
+pdf_folder = "02-mit-skripten-arbeiten/02-pdf/01-bilder-extrahieren"
+
 def extract_images_from_pdf(pdf_path, output_folder):
     # Create output folder if it doesn't exist
     os.makedirs(output_folder, exist_ok=True)
@@ -47,4 +49,4 @@ def extract_images_from_pdf(pdf_path, output_folder):
     print(f"Total images extracted: {image_count}")
 
 # Usage
-extract_images_from_pdf("SIMOVE_ANS_EngineeringManual.pdf", "extracted_images")
+extract_images_from_pdf(f"{pdf_folder}/SIMOVE_ANS_EngineeringManual.pdf", f"{pdf_folder}/extracted_images")
