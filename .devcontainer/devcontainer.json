@@ -1,6 +1,7 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "postStartCommand": "pip install -r requirements.txt",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
   "features": {},
   "customizations": {
     "vscode": {
